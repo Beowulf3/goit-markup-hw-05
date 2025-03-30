@@ -470,8 +470,8 @@ ul .link:hover, .link:focus {
     justify-content: center;
     align-items: center;
     background-color: rgba(0, 0, 0, 0.5);
-    /* opacity: 0;
-    pointer-events: none; */
+    opacity: 0;
+    pointer-events: none;
 }
 .modal-overlay.is-open {
     opacity: 1;
